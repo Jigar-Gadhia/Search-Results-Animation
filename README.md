@@ -30,7 +30,7 @@ cd Search-Results-Animation
 
 ### 2. Install dependencies
 
-```nash
+```bash
 npm install #or bun install
 ```
 
