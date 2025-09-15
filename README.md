@@ -1,12 +1,29 @@
-# React + Vite
+# 🔍 Search Results Animation (Dribbble Inspired)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React + Vite** project showcasing a clean and minimal search bar animation inspired by a Dribbble design.  
+The demo highlights smooth UI/UX transitions using **Material UI**, **TailwindCSS**, and modern React libraries.
 
-Currently, two official plugins are available:
+![Demo Preview](./src/assets/images/demo.gif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Dribble design link](https://dribbble.com/shots/17399694-Search-Results-Animation)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- 🎨 Dribbble-inspired search bar design
+- ⚡ Built with **React 19 + Vite** for blazing fast dev experience
+- 🎭 Smooth animations and clean UI
+- 🧩 Styled with **Material UI + TailwindCSS**
+- 📦 Easy to extend for real search functionality
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/search-results-animation.git
+cd search-results-animation
+```
