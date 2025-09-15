@@ -5,7 +5,7 @@ The demo highlights smooth UI/UX transitions using **Material UI**, **TailwindCS
 
 ![Demo Preview](./src/assets/images/demo.gif)
 
-![Dribble design link](https://dribbble.com/shots/17399694-Search-Results-Animation)
+### Dribble Link: https://dribbble.com/shots/17399694-Search-Results-Animation
 
 ---
 
@@ -24,6 +24,58 @@ The demo highlights smooth UI/UX transitions using **Material UI**, **TailwindCS
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/search-results-animation.git
-cd search-results-animation
+git clone https://github.com/Jigar-Gadhia/Search-Results-Animation.git
+cd Search-Results-Animation
 ```
+
+### 2. Install dependencies
+
+```nash
+npm install #or bun install
+```
+
+### 3. Run in development mode
+
+```bash
+npm run dev #or bun run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build #or bun run build
+```
+
+### 5. Preview production build
+
+```bash
+npm run preview #or bun run preview
+```
+
+## 📂 Tech Stack
+
+- React 19
+- Vite 7
+- Material UI 7
+- TailwindCSS 4
+- Styled Components
+- Lodash
+
+---
+
+## 🖼️ Design Inspiration
+
+This project is based on a **Dribbble design concept** that emphasizes a clean, modern search bar UI with subtle animations.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to **fork this repo** and create a **pull request**.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – feel free to use it for your own projects.
